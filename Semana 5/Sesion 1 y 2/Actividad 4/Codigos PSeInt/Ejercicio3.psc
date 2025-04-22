@@ -4,7 +4,7 @@ Algoritmo Ejercicio3
     Escribir "Ingrese la velocidad (km/h):"
     Leer velocidad
     Si velocidad > 120 Entonces
-        Escribir "¡Reduzca la velocidad!"
+        Escribir "Â¡Reduzca la velocidad!"
     FinSi
 
 	
